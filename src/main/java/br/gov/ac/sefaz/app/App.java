@@ -21,7 +21,7 @@ public class App {
 		System.out.println("Subtrai = "+calcu.subtrai(22, 22));
 		
 		System.out.println("Multiplicar = "+calcu.multiplica(22, 22));
-		
+		// methodo divide 
 		System.out.println("divide = "+calcu.divide(22, 22));
 
 	}
