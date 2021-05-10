@@ -17,7 +17,7 @@ public class App {
 		GerenciadorDeVendas calcu = new GerenciadorDeVendas();
 		
 		System.out.println("Soma = "+calcu.soma(22, 22));
-		
+		// aqui vai subtrai
 		System.out.println("Subtrai = "+calcu.subtrai(22, 22));
 		// aqui methodo multiplicar
 		System.out.println("Multiplicar = "+calcu.multiplica(22, 22));
